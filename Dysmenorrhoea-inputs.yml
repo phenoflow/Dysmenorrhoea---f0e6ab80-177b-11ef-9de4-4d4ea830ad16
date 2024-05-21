@@ -1,0 +1,27 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/painful-dysmenorrhoea---primary.py
+inputModule3:
+  class: File
+  path: python/secondary-dysmenorrhoea---primary.py
+inputModule4:
+  class: File
+  path: python/dysmenorrhoea---primary.py
+inputModule5:
+  class: File
+  path: python/dysmenorrhoea-period---primary.py
+inputModule6:
+  class: File
+  path: python/primary-dysmenorrhoea---primary.py
+inputModule7:
+  class: File
+  path: python/dysmenorrhoea-history---primary.py
+inputModule8:
+  class: File
+  path: python/output-cases.py
