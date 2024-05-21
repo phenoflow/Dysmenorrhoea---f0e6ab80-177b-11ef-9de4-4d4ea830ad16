@@ -1,0 +1,24 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/painful-dysmenorrhoea---primary.py
+inputModule3:
+  class: File
+  path: python/secondary-dysmenorrhoea---primary.py
+inputModule4:
+  class: File
+  path: python/dysmenorrhoea---primary.py
+inputModule5:
+  class: File
+  path: python/dysmenorrhoea-period---primary.py
+inputModule6:
+  class: File
+  path: python/primary-dysmenorrhoea---primary.py
+inputModule7:
+  class: File
+  path: python/dysmenorrhoea-history---primary.py
+inputModule8:
+  class: File
+  path: python/output-cases.py
